@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "name": "Focus Sounds",
+  "description": "Procedural white, brown, rain and ocean sounds for focus.",
+  "appearance": {
+    "theme_color": "#2DD4BF",
+    "icon": {
+      "src": "../icon-mono.png",
+      "type": "monochrome"
+    },
+    "icon_background": {
+      "colors": [
+        "#2DD4BF",
+        "#1B8A7C",
+        "#0F5A50",
+        "#03211D"
+      ],
+      "stops": [
+        0.0,
+        0.33,
+        0.66,
+        1.0
+      ],
+      "inner_glow_color": "#99F6E4"
+    }
+  }
+}
